@@ -17,7 +17,7 @@
             <h1 style="text-align: center; line-height: 128px">Hello</h1>
           </el-row>
 
-          <h2>欢迎来到校园转赚,请注册您的账号</h2>
+          <h2>欢迎来到智选校园,请注册您的账号</h2>
           <el-form-item prop="userAccount">
             <el-input
               placeholder="请输入您的账号"

@@ -35,7 +35,7 @@ import { ElMessage } from "element-plus";
 
 // 初始化数据
 const text = ref(
-  "校园转赚公告栏,记得查收公告呀!小项目请勿恶意攻击,谢谢"
+  "智选校园公告栏,记得查收公告呀!小项目请勿恶意攻击,谢谢"
 );
 const noticeList = ref([]);
 const loading = ref(true);

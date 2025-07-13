@@ -11,7 +11,7 @@
       <i class="iconfont icon-banquan" style="font-size: 18px"></i>
       2025 kksleepy  ——
       <span>
-        校园转赚
+        智选校园
       </span>
     </p>
   </div>

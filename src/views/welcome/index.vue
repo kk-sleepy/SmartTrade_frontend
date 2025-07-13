@@ -2,10 +2,10 @@
   <div style="display: flex; justify-content: center">
     <el-card style="width: 100%">
       <el-row style="font-size: 28px"
-        >欢迎使用校园转赚 🎉
+        >欢迎使用智选校园 🎉
       </el-row>
       <el-row style="font-size: 20px; margin: 40px 0"
-        >校园转赚！在这里，您可以通过我们强大的平台轻松买卖二手商品，享受便捷的校园二手交易体验。
+        >智选校园！在这里，您可以通过我们强大的平台轻松买卖二手商品，享受便捷的校园二手交易体验。
         🛠
       </el-row>
       <!--      介绍-->
@@ -30,7 +30,7 @@
         </el-row>
         <el-row style="margin-bottom: 20px"
           >🏁 无论您是用户还是管理者，智能 AI
-          校园转赚都致力于提供稳定、安全、高效的交易服务，帮助您实现更快速、便捷的校园二手交易体验。
+          智选校园都致力于提供稳定、安全、高效的交易服务，帮助您实现更快速、便捷的校园二手交易体验。
         </el-row>
       </el-row>
       <el-row class="card_container" style="margin: 40px 0">
